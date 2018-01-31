@@ -1,7 +1,8 @@
-# Minetest Core
+# Great Big World
 Author : Austin Pachano (SonosFuer)
 Liscense : MIT
-The purpose of minetest_core is to create an alternative to minetest_game that is easier to develop content on top of. It offers an extended api available in game_api.txt that allows for easy creation of content such as ores and trees.
+Great Big World provides a fully flushed out game full of a ton of content build off of the minetest_core subgame of minetest
+
 
 ## Installation
 Unzip minetest_core into minetest/games/
